@@ -1,0 +1,12 @@
+---
+- hosts: all
+  become: yes
+  become_user: root
+  roles:
+    # - adminer
+    - apache
+    # - deploy
+    # - mysql
+    # - php
+    # - samba
+    - vagrant

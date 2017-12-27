@@ -1,0 +1,2 @@
+[local]
+athena ansible_connection=local

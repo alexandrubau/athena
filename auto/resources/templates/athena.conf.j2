@@ -1,0 +1,20 @@
+<VirtualHost *:80>
+    ServerAdmin webmaster@athena.local
+    ServerName  athena.local
+    ServerAlias www.athena.local
+    # Indexes + Directory Root.
+    DirectoryIndex index.html index.php
+    DocumentRoot /vagrant
+    <Directory /vagrant>
+        Options Indexes FollowSymLinks
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    # Possible values include: debug, info, notice, warn, error, crit, alert, emerg.
+    #LogLevel warn
+
+    # Logfiles
+    #ErrorLog  /vagrant/apache2.error.log
+    #CustomLog /vagrant/apache2.access.log combined
+</VirtualHost>

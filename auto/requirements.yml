@@ -1,0 +1,22 @@
+---
+- name: adminer
+  src: https://github.com/alexandrubau/ansible-adminer.git
+  version: v0.0.1
+- name: apache
+  src: https://github.com/alexandrubau/ansible-apache.git
+  version: v0.0.1
+- name: deploy
+  src: https://github.com/alexandrubau/ansible-deploy.git
+  version: v0.0.1
+- name: mysql
+  src: https://github.com/alexandrubau/ansible-mysql.git
+  version: v0.0.1
+- name: php
+  src: https://github.com/alexandrubau/ansible-php.git
+  version: v0.0.1
+- name: samba
+  src: https://github.com/alexandrubau/ansible-samba.git
+  version: v0.0.1
+- name: vagrant
+  src: https://github.com/alexandrubau/ansible-vagrant.git
+  version: v0.0.1
