@@ -1,25 +1,25 @@
 ---
 - name: core
   src: https://github.com/alexandrubau/ansible-core.git
-  version: v0.0.1
+  version: v0.0.2
 - name: adminer
   src: https://github.com/alexandrubau/ansible-adminer.git
-  version: v0.0.2
+  version: v0.0.3
 - name: apache
   src: https://github.com/alexandrubau/ansible-apache.git
-  version: v0.0.2
+  version: v0.0.3
 - name: deploy
   src: https://github.com/alexandrubau/ansible-deploy.git
   version: v0.0.2
 - name: mysql
   src: https://github.com/alexandrubau/ansible-mysql.git
-  version: v0.0.2
+  version: v0.0.3
 - name: php
   src: https://github.com/alexandrubau/ansible-php.git
-  version: v0.0.2
+  version: v0.0.3
 - name: samba
   src: https://github.com/alexandrubau/ansible-samba.git
-  version: v0.0.2
+  version: v0.0.3
 - name: vagrant
   src: https://github.com/alexandrubau/ansible-vagrant.git
   version: v0.0.2
