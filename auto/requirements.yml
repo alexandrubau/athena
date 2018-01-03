@@ -1,6 +1,6 @@
 ---
-- name: broker
-  src: https://github.com/alexandrubau/ansible-broker.git
+- name: core
+  src: https://github.com/alexandrubau/ansible-core.git
   version: v0.0.1
 - name: adminer
   src: https://github.com/alexandrubau/ansible-adminer.git
