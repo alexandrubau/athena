@@ -3,7 +3,7 @@ Welcome to your future project! This repository is used as a boilerplate to help
 
 ## How to use
 
-Just clone this repository, remove the `.git` folder and copy all its content in your future project folder. Navigate to `auto` folder and run `vagrant up` to start the engine.
+Just clone this repository and copy all its contents (without the `.git` folder) into your future project folder. Navigate to `auto` folder and run `vagrant up` to start the engine.
 
 ## How to configure
 
@@ -12,6 +12,7 @@ As you may have noticed, by default it installs only `apache` and `vagrant` role
 Each role can be configured individually by using parameters. All parameters should be specified in `auto/inventories/dev/group_vars/all.yml`. You can check all available parameters in the list of roles below.
 
 ## List of roles:
+- [Core](https://github.com/alexandrubau/ansible-core)
 - [Adminer](https://github.com/alexandrubau/ansible-adminer)
 - [Apache](https://github.com/alexandrubau/ansible-apache)
 - [Deploy](https://github.com/alexandrubau/ansible-deploy)
