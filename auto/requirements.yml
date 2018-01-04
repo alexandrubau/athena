@@ -14,6 +14,9 @@
 - name: mysql
   src: https://github.com/alexandrubau/ansible-mysql.git
   version: v0.0.3
+- name: nodejs
+  src: https://github.com/alexandrubau/ansible-nodejs.git
+  version: v0.0.1
 - name: php
   src: https://github.com/alexandrubau/ansible-php.git
   version: v0.0.3

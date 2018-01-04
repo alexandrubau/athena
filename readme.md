@@ -1,5 +1,5 @@
 
-Welcome to your future project! This repository is used as a boilerplate to help you get going to what you love the most: coding.
+This repository is used as a boilerplate to help you get going to what you love the most: coding.
 
 ## How to use
 
@@ -17,6 +17,7 @@ Each role can be configured individually by using parameters. All parameters sho
 - [Apache](https://github.com/alexandrubau/ansible-apache)
 - [Deploy](https://github.com/alexandrubau/ansible-deploy)
 - [MySQL](https://github.com/alexandrubau/ansible-mysql)
+- [Node.js](https://github.com/alexandrubau/ansible-nodejs)
 - [PHP](https://github.com/alexandrubau/ansible-php)
 - [Samba](https://github.com/alexandrubau/ansible-samba)
 - [Vagrant](https://github.com/alexandrubau/ansible-vagrant)
