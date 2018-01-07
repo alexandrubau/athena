@@ -43,3 +43,4 @@ Feel free to make pull requests if you want to share the knowledge or open issue
 - All parameters must start with the role name;
 - All "private" parameters must start with `_`;
 - Make sure your tasks are run only if needed;
+- Allow the user to lock the version of the package;
