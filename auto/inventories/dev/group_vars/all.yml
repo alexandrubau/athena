@@ -3,10 +3,59 @@
 # List with available parameters is here #
 # https://github.com/alexandrubau/athena #
 ##########################################
+
+#################
+# Adminer       #
+#################
+
+# empty
+
+#################
+# Apache        #
+#################
+
 apache_configs:
   fqdn: /vagrant/auto/resources/templates/fqdn.conf.j2
+
 apache_mods:
   - rewrite
   - headers
+
 apache_sites:
   athena: /vagrant/auto/resources/templates/athena.conf.j2
+
+#################
+# Deploy        #
+#################
+
+# empty
+
+#################
+# MySQL         #
+#################
+
+# empty
+
+#################
+# Node.js       #
+#################
+
+# empty
+
+#################
+# PHP           #
+#################
+
+# empty
+
+#################
+# Samba         #
+#################
+
+# empty
+
+#################
+# Vagrant       #
+#################
+
+# empty

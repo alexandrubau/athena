@@ -1,0 +1,4 @@
+---
+dependencies:
+  - name: core
+    src: https://github.com/alexandrubau/ansible-core.git
