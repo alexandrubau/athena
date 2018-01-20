@@ -19,7 +19,7 @@
   version: v0.0.1
 - name: php
   src: https://github.com/alexandrubau/ansible-php.git
-  version: v0.0.4
+  version: v0.0.5
 - name: samba
   src: https://github.com/alexandrubau/ansible-samba.git
   version: v0.0.3
