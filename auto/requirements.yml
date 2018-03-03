@@ -10,7 +10,7 @@
   version: v0.0.3
 - name: deploy
   src: https://github.com/alexandrubau/ansible-deploy.git
-  version: v0.0.5
+  version: v0.0.6
 - name: mysql
   src: https://github.com/alexandrubau/ansible-mysql.git
   version: v0.0.4
