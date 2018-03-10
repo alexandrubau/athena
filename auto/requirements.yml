@@ -16,7 +16,7 @@
   version: v0.0.4
 - name: nodejs
   src: https://github.com/alexandrubau/ansible-nodejs.git
-  version: v0.0.1
+  version: v0.0.2
 - name: php
   src: https://github.com/alexandrubau/ansible-php.git
   version: v0.0.5
