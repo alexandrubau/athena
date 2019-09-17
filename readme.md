@@ -17,6 +17,7 @@ Each role can be configured individually by using parameters. All parameters sho
 - [Core](https://github.com/alexandrubau/ansible-core)
 - [Adminer](https://github.com/alexandrubau/ansible-adminer)
 - [Apache](https://github.com/alexandrubau/ansible-apache)
+- [Nginx](https://github.com/alexandrubau/ansible-nginx)
 - [Deploy](https://github.com/alexandrubau/ansible-deploy)
 - [MySQL](https://github.com/alexandrubau/ansible-mysql)
 - [Node.js](https://github.com/alexandrubau/ansible-nodejs)
@@ -24,13 +25,10 @@ Each role can be configured individually by using parameters. All parameters sho
 - [Samba](https://github.com/alexandrubau/ansible-samba)
 - [Vagrant](https://github.com/alexandrubau/ansible-vagrant)
 
-## Top questions
+## Frequently asked questions
 
 **Where do I put my application logic?**  
 After you installed all the necessary roles, you might  also have to do something specific for some frameworks such as: running migrations, copying templates, etc. Feel free to put your custom Ansible tasks in `auto/roles/app/tasks/main.yml` and include the `app` role. The `app` role should be placed last.
-
-**Where do I put my private keys?**  
-In case you need to deploy your application using git and you need to use a private key, you can store it inside the `auto/resources/private` folder. All it's contents are ignored by default.
 
 ## How to contribute
 

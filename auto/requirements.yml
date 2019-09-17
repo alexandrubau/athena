@@ -5,6 +5,8 @@
   src: https://github.com/alexandrubau/ansible-adminer.git
 - name: apache
   src: https://github.com/alexandrubau/ansible-apache.git
+- name: nginx
+  src: https://github.com/alexandrubau/ansible-nginx.git
 - name: deploy
   src: https://github.com/alexandrubau/ansible-deploy.git
 - name: mysql

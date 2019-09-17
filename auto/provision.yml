@@ -5,10 +5,9 @@
   roles:
     # - adminer
     - apache
-    # - deploy
+    # - nginx
     # - mysql
     # - nodejs
     # - php
     # - samba
     - vagrant
-    # - app

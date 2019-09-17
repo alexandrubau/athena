@@ -25,6 +25,12 @@ apache_sites:
   athena: /vagrant/auto/resources/templates/athena.conf.j2
 
 #################
+# Nginx        #
+#################
+
+# empty
+
+#################
 # Deploy        #
 #################
 
