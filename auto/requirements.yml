@@ -1,16 +1,18 @@
 ---
 - name: core
   src: https://github.com/alexandrubau/ansible-core.git
+- name: acl
+  src: https://github.com/alexandrubau/ansible-acl.git
 - name: adminer
   src: https://github.com/alexandrubau/ansible-adminer.git
 - name: apache
   src: https://github.com/alexandrubau/ansible-apache.git
-- name: nginx
-  src: https://github.com/alexandrubau/ansible-nginx.git
 - name: deploy
   src: https://github.com/alexandrubau/ansible-deploy.git
 - name: mysql
   src: https://github.com/alexandrubau/ansible-mysql.git
+- name: nginx
+  src: https://github.com/alexandrubau/ansible-nginx.git
 - name: nodejs
   src: https://github.com/alexandrubau/ansible-nodejs.git
 - name: php
