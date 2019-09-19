@@ -17,7 +17,6 @@ Each role can be configured individually by using parameters. All parameters sho
 - [ACL](https://github.com/alexandrubau/ansible-acl)
 - [Adminer](https://github.com/alexandrubau/ansible-adminer)
 - [Apache](https://github.com/alexandrubau/ansible-apache)
-- [Core](https://github.com/alexandrubau/ansible-core)
 - [Deploy](https://github.com/alexandrubau/ansible-deploy)
 - [MySQL](https://github.com/alexandrubau/ansible-mysql)
 - [Nginx](https://github.com/alexandrubau/ansible-nginx)
