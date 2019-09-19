@@ -14,10 +14,10 @@ As you may have noticed, by default it installs only `apache` and `vagrant` role
 Each role can be configured individually by using parameters. All parameters should be specified in `auto/inventories/dev/group_vars/all.yml`. You can check all available parameters in the list of roles below.
 
 ## List of roles:
-- [Core](https://github.com/alexandrubau/ansible-core)
 - [ACL](https://github.com/alexandrubau/ansible-acl)
 - [Adminer](https://github.com/alexandrubau/ansible-adminer)
 - [Apache](https://github.com/alexandrubau/ansible-apache)
+- [Core](https://github.com/alexandrubau/ansible-core)
 - [Deploy](https://github.com/alexandrubau/ansible-deploy)
 - [MySQL](https://github.com/alexandrubau/ansible-mysql)
 - [Nginx](https://github.com/alexandrubau/ansible-nginx)
