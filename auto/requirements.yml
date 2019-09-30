@@ -1,6 +1,4 @@
 ---
-- name: acl
-  src: https://github.com/alexandrubau/ansible-acl.git
 - name: adminer
   src: https://github.com/alexandrubau/ansible-adminer.git
 - name: apache
@@ -17,5 +15,7 @@
   src: https://github.com/alexandrubau/ansible-php.git
 - name: samba
   src: https://github.com/alexandrubau/ansible-samba.git
+- name: security
+  src: https://github.com/alexandrubau/ansible-security.git
 - name: vagrant
   src: https://github.com/alexandrubau/ansible-vagrant.git
