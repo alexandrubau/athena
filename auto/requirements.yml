@@ -17,5 +17,3 @@
   src: https://github.com/alexandrubau/ansible-samba.git
 - name: security
   src: https://github.com/alexandrubau/ansible-security.git
-- name: vagrant
-  src: https://github.com/alexandrubau/ansible-vagrant.git

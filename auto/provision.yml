@@ -3,12 +3,11 @@
   become: yes
   become_user: root
   roles:
-    # - adminer
-    - apache
-    # - mysql
-    # - nginx
-    # - nodejs
-    # - php
-    # - samba
     # - security
-    - vagrant
+    - apache
+    # - nginx
+    # - php
+    # - nodejs
+    # - mysql
+    # - adminer
+    # - samba
