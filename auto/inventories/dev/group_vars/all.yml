@@ -16,7 +16,7 @@
 
 apache_configs:
   - name: fqdn
-    path: /vagrant/auto/resources/templates/fqdn.conf.j2
+    src: /vagrant/auto/resources/templates/fqdn.conf.j2
 
 apache_mods:
   - rewrite
@@ -24,7 +24,7 @@ apache_mods:
 
 apache_sites:
   - name: athena
-    path: /vagrant/auto/resources/templates/athena.conf.j2
+    src: /vagrant/auto/resources/templates/athena.conf.j2
 
 #################
 # Deploy        #
