@@ -22,6 +22,7 @@ Each role can be configured individually by using parameters. All parameters sho
 - [Nginx](https://github.com/alexandrubau/ansible-nginx)
 - [NodeJS](https://github.com/alexandrubau/ansible-nodejs)
 - [PHP](https://github.com/alexandrubau/ansible-php)
+- [Redis](https://github.com/alexandrubau/ansible-redis)
 - [Samba](https://github.com/alexandrubau/ansible-samba)
 - [Security](https://github.com/alexandrubau/ansible-security)
 
