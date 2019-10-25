@@ -9,21 +9,21 @@ Just clone this repository and copy all its contents (without the `.git` folder)
 
 ## How to configure
 
-As you may have noticed, by default it installs only `apache` and `vagrant` roles. But feel free to install other roles by uncommenting lines from `auto/provision.yml`.
+As you may have noticed, by default it installs only `apache` role, but feel free to install other roles by uncommenting lines from `auto/provision.yml` and `auto/deploy.yml`.
 
 Each role can be configured individually by using parameters. All parameters should be specified in `auto/inventories/dev/group_vars/all.yml`. You can check all available parameters in the list of roles below.
 
 ## List of roles:
-- [ACL](https://github.com/alexandrubau/ansible-acl)
 - [Adminer](https://github.com/alexandrubau/ansible-adminer)
 - [Apache](https://github.com/alexandrubau/ansible-apache)
+- [Certbot](https://github.com/alexandrubau/ansible-certbot)
 - [Deploy](https://github.com/alexandrubau/ansible-deploy)
 - [MySQL](https://github.com/alexandrubau/ansible-mysql)
 - [Nginx](https://github.com/alexandrubau/ansible-nginx)
 - [NodeJS](https://github.com/alexandrubau/ansible-nodejs)
 - [PHP](https://github.com/alexandrubau/ansible-php)
 - [Samba](https://github.com/alexandrubau/ansible-samba)
-- [Vagrant](https://github.com/alexandrubau/ansible-vagrant)
+- [Security](https://github.com/alexandrubau/ansible-security)
 
 ## Frequently asked questions
 

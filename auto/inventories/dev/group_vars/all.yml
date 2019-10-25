@@ -27,6 +27,12 @@ apache_sites:
     src: /vagrant/auto/resources/templates/athena.conf.j2
 
 #################
+# Certbot       #
+#################
+
+# empty
+
+#################
 # Deploy        #
 #################
 

@@ -3,6 +3,8 @@
   src: https://github.com/alexandrubau/ansible-adminer.git
 - name: apache
   src: https://github.com/alexandrubau/ansible-apache.git
+- name: certbot
+  src: https://github.com/alexandrubau/ansible-certbot.git
 - name: deploy
   src: https://github.com/alexandrubau/ansible-deploy.git
 - name: mysql
